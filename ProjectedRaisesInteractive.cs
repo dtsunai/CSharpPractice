@@ -1,4 +1,8 @@
-﻿using System;
+// Convert the ProjectedRaises class to an interactive application named
+// ProjectedRaisesInteractive. Instead of assigning values to the salaries, accept them
+// from the user as input.
+
+using System;
 class ProjectedRaisesInteractive
 {
     static void Main()
